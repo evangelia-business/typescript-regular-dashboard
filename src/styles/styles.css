@@ -1,0 +1,8 @@
+/* src/styles/styles.css */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+.app {
+  padding: 20px;
+}

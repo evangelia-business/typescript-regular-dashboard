@@ -1,0 +1,24 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.dashboard {
+  margin-top: 20px;
+}
+
+.widgets {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.widget {
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  min-width: 150px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}

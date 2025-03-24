@@ -49,7 +49,7 @@ A hands-on exercise to **strengthen TypeScript skills** in a React context. The 
 // 4. Add error state for invalid data  
 ```
 
-### 4. **`Chart.tsx`**
+### 4. **`Dashboard.tsx`**
 ```typescript
 // 1. Fix useState<Widget[]> and newWidget state  
 // 2. Implement updateWidget using WidgetUpdate  
